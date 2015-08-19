@@ -22,4 +22,12 @@ layout: default
 - CountDiv
 - PassingCars
 - MinAvgTwoSlice
+    - [Felipe's solution](https://codility.com/demo/results/demoSHZX7K-8T2/)
 - GenomicRangeQuery
+
+### [Lesson 4: Sorting](https://codility.com/programmers/lessons/4)
+- MaxProductOfThree
+- Triangle
+- Distinct
+    - [Felipe's solution](https://codility.com/demo/results/demoHBXM7Z-JDA/)
+- NumberOfDiscIntersections
