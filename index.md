@@ -7,6 +7,7 @@ layout: default
 
 ### [Lesson 1: Time Complexity](https://codility.com/programmers/lessons/1)
 - TapeEquilibrium
+    - [Felipe's solution](https://codility.com/demo/results/demo8HMGGH-TPP/)
 - PermMissingElem
 - FrogJmp
 
