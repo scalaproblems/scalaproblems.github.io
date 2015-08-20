@@ -25,11 +25,13 @@ layout: default
 
 ### [Lesson 3: Prefix Sums](https://codility.com/programmers/lessons/3)
 - CountDiv
+    - [David's solution](https://codility.com/demo/results/demo4XHWB4-Q96/)
 - PassingCars
     - [David's solution](https://codility.com/demo/results/demoMZMJRP-43V/)
 - MinAvgTwoSlice
     - [Felipe's solution](https://codility.com/demo/results/demoSHZX7K-8T2/)
 - GenomicRangeQuery
+    - [David's solution](https://codility.com/demo/results/demo4YQNA7-XHE/)
 
 ### [Lesson 4: Sorting](https://codility.com/programmers/lessons/4)
 - MaxProductOfThree
