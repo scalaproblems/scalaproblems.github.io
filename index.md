@@ -15,15 +15,18 @@ layout: default
 
 ### [Lesson 2: Counting Elements](https://codility.com/programmers/lessons/2)
 - FrogRiverOne
+    - [David's solution](https://codility.com/demo/results/demoZ9AN4M-94S/)
 - PermCheck
     - [Felipe's solution](https://codility.com/demo/results/demoC7B3DN-3UN/)
 - MissingInteger
+    - [David's solution](https://codility.com/demo/results/demoUN36M4-YX8/)
 - MaxCounters
     - [David's solution](https://codility.com/demo/results/demo7RX587-FRJ/)
 
 ### [Lesson 3: Prefix Sums](https://codility.com/programmers/lessons/3)
 - CountDiv
 - PassingCars
+    - [David's solution](https://codility.com/demo/results/demoMZMJRP-43V/)
 - MinAvgTwoSlice
     - [Felipe's solution](https://codility.com/demo/results/demoSHZX7K-8T2/)
 - GenomicRangeQuery
