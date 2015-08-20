@@ -9,15 +9,17 @@ layout: default
 - TapeEquilibrium
     - [Felipe's solution](https://codility.com/demo/results/demo8HMGGH-TPP/)
 - PermMissingElem
+    - [David's solution](https://codility.com/demo/results/demo889TNH-7GZ/)
 - FrogJmp
+    - [David's Solution](https://codility.com/demo/results/demoNTSJ8K-VUU/)
 
 ### [Lesson 2: Counting Elements](https://codility.com/programmers/lessons/2)
 - FrogRiverOne
 - PermCheck
-  - [Felipe's solution](https://codility.com/demo/results/demoC7B3DN-3UN/)
+    - [Felipe's solution](https://codility.com/demo/results/demoC7B3DN-3UN/)
 - MissingInteger
 - MaxCounters
-  - [David's solution](https://codility.com/demo/results/demo7RX587-FRJ/)
+    - [David's solution](https://codility.com/demo/results/demo7RX587-FRJ/)
 
 ### [Lesson 3: Prefix Sums](https://codility.com/programmers/lessons/3)
 - CountDiv
