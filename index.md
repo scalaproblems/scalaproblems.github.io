@@ -32,6 +32,7 @@ layout: default
     - [David's solution](https://codility.com/demo/results/demoMZMJRP-43V/)
 - MinAvgTwoSlice
     - [Felipe's solution](https://codility.com/demo/results/demoSHZX7K-8T2/)
+    - [David's solution](https://codility.com/demo/results/demoURFGSK-XUU/)
 - GenomicRangeQuery
     - [David's solution](https://codility.com/demo/results/demo4YQNA7-XHE/)
 
