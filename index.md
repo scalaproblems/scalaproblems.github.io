@@ -8,6 +8,7 @@ layout: default
 ### [Lesson 1: Time Complexity](https://codility.com/programmers/lessons/1)
 - TapeEquilibrium
     - [Felipe's solution](https://codility.com/demo/results/demo8HMGGH-TPP/)
+    - [David's solution](https://codility.com/demo/results/demoNVKCNY-SDT/)
 - PermMissingElem
     - [David's solution](https://codility.com/demo/results/demo889TNH-7GZ/)
 - FrogJmp
@@ -18,6 +19,7 @@ layout: default
     - [David's solution](https://codility.com/demo/results/demoZ9AN4M-94S/)
 - PermCheck
     - [Felipe's solution](https://codility.com/demo/results/demoC7B3DN-3UN/)
+    - [David's solution](https://codility.com/demo/results/demoE23UY4-HHX/)
 - MissingInteger
     - [David's solution](https://codility.com/demo/results/demoUN36M4-YX8/)
 - MaxCounters
