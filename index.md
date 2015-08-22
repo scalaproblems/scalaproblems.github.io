@@ -38,7 +38,9 @@ layout: default
 
 ### [Lesson 4: Sorting](https://codility.com/programmers/lessons/4)
 - MaxProductOfThree
+    - [David's solution](https://codility.com/demo/results/demoJ6F8K4-AJK/)
 - Triangle
+    - [David's solution](https://codility.com/demo/results/demoHJYR9N-WYH/)
 - Distinct
     - [Felipe's solution](https://codility.com/demo/results/demoHBXM7Z-JDA/)
 - NumberOfDiscIntersections
