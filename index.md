@@ -43,4 +43,5 @@ layout: default
     - [David's solution](https://codility.com/demo/results/demoHJYR9N-WYH/)
 - Distinct
     - [Felipe's solution](https://codility.com/demo/results/demoHBXM7Z-JDA/)
+    - [David's solution](https://codility.com/demo/results/demoYK7AM6-Z2M/)
 - NumberOfDiscIntersections
