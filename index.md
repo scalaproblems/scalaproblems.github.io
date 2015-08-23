@@ -45,3 +45,4 @@ layout: default
     - [Felipe's solution](https://codility.com/demo/results/demoHBXM7Z-JDA/)
     - [David's solution](https://codility.com/demo/results/demoYK7AM6-Z2M/)
 - NumberOfDiscIntersections
+    - [David's solution](https://codility.com/demo/results/demoTTKS97-KGW/)
