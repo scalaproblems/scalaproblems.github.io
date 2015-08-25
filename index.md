@@ -46,3 +46,7 @@ layout: default
     - [David's solution](https://codility.com/demo/results/demoYK7AM6-Z2M/)
 - NumberOfDiscIntersections
     - [David's solution](https://codility.com/demo/results/demoTTKS97-KGW/)
+
+### [Lesson 5: Stacks and Queues](https://codility.com/demo/results/demo7BV87Q-J42/)
+- Nesting
+    - [David's solution](https://codility.com/demo/results/demo7BV87Q-J42/)
