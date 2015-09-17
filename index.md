@@ -22,6 +22,7 @@ layout: default
     - [David's solution](https://codility.com/demo/results/demoE23UY4-HHX/)
 - MissingInteger
     - [David's solution](https://codility.com/demo/results/demoUN36M4-YX8/)
+    - [Felipe's solution](https://codility.com/demo/results/trainingD6V3CB-27F/)
 - MaxCounters
     - [David's solution](https://codility.com/demo/results/demo7RX587-FRJ/)
 
