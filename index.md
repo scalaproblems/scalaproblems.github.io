@@ -51,3 +51,9 @@ layout: default
 ### [Lesson 5: Stacks and Queues](https://codility.com/demo/results/demo7BV87Q-J42/)
 - Nesting
     - [David's solution](https://codility.com/demo/results/demo7BV87Q-J42/)
+
+### [Lesson 8: Prime and composite numbers](https://codility.com/programmers/lessons/8)
+- CountFactors
+    - [Felipe's solution - brute force recursion - 50% performance](https://codility.com/demo/results/trainingNNCJ3R-PNA/)
+    - [Felipe's solution - 83% performance](https://codility.com/demo/results/trainingM7CY7Q-X24/)
+
