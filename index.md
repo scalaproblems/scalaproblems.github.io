@@ -57,3 +57,6 @@ layout: default
     - [Felipe's solution - brute force recursion - 50% performance](https://codility.com/demo/results/trainingNNCJ3R-PNA/)
     - [Felipe's solution - 83% performance](https://codility.com/demo/results/trainingM7CY7Q-X24/)
 
+### [Lesson 99 - Future lesson]
+- OddOccurrencesInArray
+    - [Felipe's solution](https://codility.com/demo/results/training4SVDT2-YVP/)
