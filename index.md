@@ -58,5 +58,7 @@ layout: default
     - [Felipe's solution - 83% performance](https://codility.com/demo/results/trainingM7CY7Q-X24/)
 
 ### [Lesson 99 - Future lesson](https://codility.com/programmers/lessons/14)
+- TreeHeight
+    - [Felipe's solution](https://codility.com/demo/results/training5TDVSB-YD5/)
 - OddOccurrencesInArray
     - [Felipe's solution](https://codility.com/demo/results/training4SVDT2-YVP/)
