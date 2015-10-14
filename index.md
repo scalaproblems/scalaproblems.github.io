@@ -62,3 +62,9 @@ layout: default
     - [Felipe's solution](https://codility.com/demo/results/training5TDVSB-YD5/)
 - OddOccurrencesInArray
     - [Felipe's solution](https://codility.com/demo/results/training4SVDT2-YVP/)
+
+## [Coursera - Stanford Algorithms: Design and Analysis, Part 1 by Tim Roughgarden](https://class.coursera.org/algo-009)
+
+### [Week 1]
+    - [Felipe's Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/MergeSort.scala)
+    - [Felipe's Count Inversions using Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/CountInversions.scala)
