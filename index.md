@@ -65,6 +65,6 @@ layout: default
 
 ## [Coursera - Stanford Algorithms: Design and Analysis, Part 1 by Tim Roughgarden](https://class.coursera.org/algo-009)
 
-### [Week 1]
+### Week 1
     - [Felipe's Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/MergeSort.scala)
     - [Felipe's Count Inversions using Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/CountInversions.scala)
