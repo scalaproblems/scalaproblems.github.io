@@ -68,3 +68,4 @@ layout: default
 - Week 1
     - [Felipe's Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/MergeSort.scala)
     - [Felipe's Count Inversions using Merge Sort](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/CountInversions.scala)
+    - [Felipe's QuickSort (recursive, in-place)](https://github.com/feliperazeek/scala-playground/blob/master/src/main/scala/algo/QuickSort.scala)
