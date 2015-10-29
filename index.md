@@ -51,6 +51,7 @@ layout: default
 ### [Lesson 5: Stacks and Queues](https://codility.com/demo/results/demo7BV87Q-J42/)
 - Nesting
     - [David's solution](https://codility.com/demo/results/demo7BV87Q-J42/)
+    - [Felipe's solution](https://codility.com/demo/results/trainingBNG2E4-EQ9/)
 
 ### [Lesson 8: Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - CountFactors
